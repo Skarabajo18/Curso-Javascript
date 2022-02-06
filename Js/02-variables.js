@@ -1,5 +1,5 @@
 //VARIABLES
-// Una variable es nu contenedor de informacion
+// Una variable es un contenedor de informacion
 'use strict'
 // el modo estricto es para que el codigo sea limpio y logico
 
